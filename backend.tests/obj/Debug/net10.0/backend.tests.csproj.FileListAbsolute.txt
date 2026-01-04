@@ -526,3 +526,4 @@ C:\Users\aymen\Desktop\Projects\backend.tests\bin\Debug\net10.0\refs\System.Xml.
 C:\Users\aymen\Desktop\Projects\backend.tests\bin\Debug\net10.0\refs\WindowsBase.dll
 C:\Users\aymen\Desktop\Projects\backend.tests\bin\Debug\net10.0\Microsoft.AspNetCore.Mvc.Testing.dll
 C:\Users\aymen\Desktop\Projects\backend.tests\bin\Debug\net10.0\Microsoft.AspNetCore.TestHost.dll
+C:\Users\aymen\Desktop\Projects\backend.tests\obj\Debug\net10.0\backend.tests.sourcelink.json

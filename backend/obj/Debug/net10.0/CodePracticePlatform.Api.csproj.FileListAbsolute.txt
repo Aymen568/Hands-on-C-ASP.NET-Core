@@ -114,6 +114,7 @@ C:\Users\aymen\Desktop\Projects\backend\obj\Debug\net10.0\CodePracticePlatform.A
 C:\Users\aymen\Desktop\Projects\backend\obj\Debug\net10.0\CodePracticePlatform.Api.csproj.CoreCompileInputs.cache
 C:\Users\aymen\Desktop\Projects\backend\obj\Debug\net10.0\CodePracticePlatform.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\aymen\Desktop\Projects\backend\obj\Debug\net10.0\CodePracticePlatform.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aymen\Desktop\Projects\backend\obj\Debug\net10.0\CodePracticePlatform.Api.sourcelink.json
 C:\Users\aymen\Desktop\Projects\backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\aymen\Desktop\Projects\backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\aymen\Desktop\Projects\backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json

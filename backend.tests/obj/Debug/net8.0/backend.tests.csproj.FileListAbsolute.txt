@@ -1,5 +1,0 @@
-C:\Users\aymen\Desktop\Projects\backend.tests\obj\Debug\net8.0\backend.tests.csproj.AssemblyReference.cache
-C:\Users\aymen\Desktop\Projects\backend.tests\obj\Debug\net8.0\backend.tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\aymen\Desktop\Projects\backend.tests\obj\Debug\net8.0\backend.tests.AssemblyInfoInputs.cache
-C:\Users\aymen\Desktop\Projects\backend.tests\obj\Debug\net8.0\backend.tests.AssemblyInfo.cs
-C:\Users\aymen\Desktop\Projects\backend.tests\obj\Debug\net8.0\backend.tests.csproj.CoreCompileInputs.cache

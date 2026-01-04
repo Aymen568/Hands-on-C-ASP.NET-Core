@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JavaScriptPracticePlatform.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0885dd5c8b43aeabe5697a0cebf7cfedf1313b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("JavaScriptPracticePlatform.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JavaScriptPracticePlatform.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
