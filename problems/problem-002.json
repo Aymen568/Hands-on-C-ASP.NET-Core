@@ -1,0 +1,39 @@
+{
+  "title": "Implement Binary Search Algorithm",
+  "description": "You are given a skeleton JavaScript file with a binary search function that needs to be implemented. The function should search for a target value in a sorted array and return its index, or -1 if not found.",
+  "difficulty": "Medium",
+  "featureType": "Algorithm",
+  "gitTemplateUrl": "https://github.com/example/binary-search-template.git",
+  "features": [
+    {
+      "name": "Binary Search Implementation",
+      "description": "Implement the binary search algorithm that efficiently searches for a target value in a sorted array using the divide-and-conquer approach.",
+      "difficulty": "Medium",
+      "type": "Algorithm",
+      "requiredFiles": ["src/binarySearch.js"],
+      "testCases": [
+        "Should return correct index when target is found",
+        "Should return -1 when target is not found",
+        "Should handle empty arrays",
+        "Should handle arrays with single element",
+        "Should handle target at beginning of array",
+        "Should handle target at end of array",
+        "Should have O(log n) time complexity"
+      ]
+    },
+    {
+      "name": "Edge Case Handling",
+      "description": "Implement proper handling of edge cases such as empty arrays, single element arrays, and values outside the array range.",
+      "difficulty": "Medium",
+      "type": "Algorithm",
+      "requiredFiles": ["src/binarySearch.js"],
+      "testCases": [
+        "Should handle empty arrays gracefully",
+        "Should handle arrays with one element",
+        "Should handle target less than minimum value",
+        "Should handle target greater than maximum value"
+      ]
+    }
+  ]
+}
+

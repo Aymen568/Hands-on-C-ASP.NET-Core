@@ -1,0 +1,64 @@
+{
+  "title": "Build REST API Endpoints",
+  "description": "You are given a Node.js Express application skeleton. Your task is to implement the missing REST API endpoints for a user management system. The endpoints should handle CRUD operations for users.",
+  "difficulty": "Hard",
+  "featureType": "ApiEndpoint",
+  "gitTemplateUrl": "https://github.com/example/user-api-template.git",
+  "features": [
+    {
+      "name": "GET /api/users",
+      "description": "Implement an endpoint to retrieve all users with optional pagination and filtering.",
+      "difficulty": "Medium",
+      "type": "ApiEndpoint",
+      "requiredFiles": ["src/routes/users.js", "src/controllers/userController.js"],
+      "testCases": [
+        "Should return all users when no filters applied",
+        "Should support pagination with page and limit parameters",
+        "Should filter users by name when query parameter provided",
+        "Should return 200 status code on success"
+      ]
+    },
+    {
+      "name": "POST /api/users",
+      "description": "Implement an endpoint to create a new user with validation.",
+      "difficulty": "Medium",
+      "type": "ApiEndpoint",
+      "requiredFiles": ["src/routes/users.js", "src/controllers/userController.js", "src/middleware/validation.js"],
+      "testCases": [
+        "Should create a new user with valid data",
+        "Should return 201 status code on successful creation",
+        "Should validate required fields (name, email)",
+        "Should return 400 status code for invalid data",
+        "Should prevent duplicate emails"
+      ]
+    },
+    {
+      "name": "PUT /api/users/:id",
+      "description": "Implement an endpoint to update an existing user.",
+      "difficulty": "Hard",
+      "type": "ApiEndpoint",
+      "requiredFiles": ["src/routes/users.js", "src/controllers/userController.js"],
+      "testCases": [
+        "Should update user with valid data",
+        "Should return 200 status code on successful update",
+        "Should return 404 status code if user not found",
+        "Should validate updated data",
+        "Should handle partial updates"
+      ]
+    },
+    {
+      "name": "DELETE /api/users/:id",
+      "description": "Implement an endpoint to delete a user.",
+      "difficulty": "Medium",
+      "type": "ApiEndpoint",
+      "requiredFiles": ["src/routes/users.js", "src/controllers/userController.js"],
+      "testCases": [
+        "Should delete user when ID exists",
+        "Should return 204 status code on successful deletion",
+        "Should return 404 status code if user not found",
+        "Should handle cascading deletions if applicable"
+      ]
+    }
+  ]
+}
+

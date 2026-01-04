@@ -1,0 +1,46 @@
+{
+  "title": "Implement a Todo List Component",
+  "description": "You are given a basic HTML structure for a todo list application. Your task is to implement the missing JavaScript functionality to make it work. The application should allow users to add, remove, and toggle completion status of todo items.",
+  "difficulty": "Easy",
+  "featureType": "UIComponent",
+  "gitTemplateUrl": "https://github.com/example/todo-list-template.git",
+  "features": [
+    {
+      "name": "Add Todo Item",
+      "description": "Implement functionality to add new todo items to the list when the user clicks the 'Add' button or presses Enter.",
+      "difficulty": "Easy",
+      "type": "UIComponent",
+      "requiredFiles": ["src/todo.js"],
+      "testCases": [
+        "Should add a new todo item when Add button is clicked",
+        "Should add a new todo item when Enter key is pressed",
+        "Should clear the input field after adding",
+        "Should not add empty todo items"
+      ]
+    },
+    {
+      "name": "Toggle Todo Completion",
+      "description": "Implement functionality to toggle the completion status of a todo item when clicked.",
+      "difficulty": "Easy",
+      "type": "UIComponent",
+      "requiredFiles": ["src/todo.js"],
+      "testCases": [
+        "Should toggle completion status when todo item is clicked",
+        "Should update visual appearance when toggled",
+        "Should persist completion status"
+      ]
+    },
+    {
+      "name": "Remove Todo Item",
+      "description": "Implement functionality to remove a todo item when the delete button is clicked.",
+      "difficulty": "Easy",
+      "type": "UIComponent",
+      "requiredFiles": ["src/todo.js"],
+      "testCases": [
+        "Should remove todo item when delete button is clicked",
+        "Should update the list after removal"
+      ]
+    }
+  ]
+}
+

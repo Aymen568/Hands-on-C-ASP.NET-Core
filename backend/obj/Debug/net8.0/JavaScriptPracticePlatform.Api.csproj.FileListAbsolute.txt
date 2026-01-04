@@ -1,0 +1,8 @@
+C:\Users\aymen\Desktop\Projects\backend\obj\Debug\net8.0\JavaScriptPracticePlatform.Api.csproj.AssemblyReference.cache
+C:\Users\aymen\Desktop\Projects\backend\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\aymen\Desktop\Projects\backend\obj\Debug\net8.0\JavaScriptPracticePlatform.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aymen\Desktop\Projects\backend\obj\Debug\net8.0\JavaScriptPracticePlatform.Api.AssemblyInfoInputs.cache
+C:\Users\aymen\Desktop\Projects\backend\obj\Debug\net8.0\JavaScriptPracticePlatform.Api.AssemblyInfo.cs
+C:\Users\aymen\Desktop\Projects\backend\obj\Debug\net8.0\JavaScriptPracticePlatform.Api.csproj.CoreCompileInputs.cache
+C:\Users\aymen\Desktop\Projects\backend\obj\Debug\net8.0\JavaScriptPracticePlatform.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aymen\Desktop\Projects\backend\obj\Debug\net8.0\JavaScriptPracticePlatform.Api.MvcApplicationPartsAssemblyInfo.cache
